@@ -1,7 +1,5 @@
 # Лабораторна робота № 1
 
-`код наведений у гілці "master"`
-
 **Завдання:**
 
 ![image](https://github.com/zerorchik/Proga-2-Lab-1/assets/103893849/da415b6d-2d89-469e-bdaa-5db9339dbf8d)
